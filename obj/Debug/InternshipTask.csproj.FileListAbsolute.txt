@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\obj\Debug\InternshipTask.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\obj\Debug\InternshipTask.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\bin\Debug\InternshipTask.exe.config
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\bin\Debug\InternshipTask.exe
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\bin\Debug\InternshipTask.pdb
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\obj\Debug\InternshipTask.csproj.CopyComplete
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\obj\Debug\InternshipTask.exe
+C:\Users\maria\source\repos\InternshipTask\InternshipTask\obj\Debug\InternshipTask.pdb
